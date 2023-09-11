@@ -19,6 +19,10 @@ CMS-style blog site similar to a Wordpress site, where developers can publish th
 - express-session
 
 ## Screenshots
+![Image 1](https://github.com/andrei-ribeiro-wenceslau/tech-blog/blob/main/public/images/tech_blog-_01.png)
+![Image 2](https://github.com/andrei-ribeiro-wenceslau/tech-blog/blob/main/public/images/tech_blog-_02.png)
+![Image 3](https://github.com/andrei-ribeiro-wenceslau/tech-blog/blob/main/public/images/tech_blog-_03.png)
+![Image 4](https://github.com/andrei-ribeiro-wenceslau/tech-blog/blob/main/public/images/tech_blog-_04.png)
 
 ## Deployed Application
 
