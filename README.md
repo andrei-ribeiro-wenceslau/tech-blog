@@ -28,10 +28,10 @@ CMS-style blog site similar to a Wordpress site, where developers can publish th
 
 We welcome contributions to improve Tech Blog. To contribute, please follow these steps:
 
-1 - Fork the repository.
-2 - Create a new branch for your feature or bug fix.
-3 - Make your changes and test thoroughly.
-4 - Submit a pull request with a clear description of your changes.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and test thoroughly.
+4. Submit a pull request with a clear description of your changes.
 
 ## License
 
