@@ -18,7 +18,7 @@ main {
 
 .blogTitle {
   text-decoration: none;
-  color: darkkhaki;
+  color: #d2ddcd;
 }
 
 .blogDesc {
@@ -94,16 +94,16 @@ a:link {
 }
 
 a:visited {
-  color: rgb(182, 179, 41);
+  color: #abacab;
 }
 
 a:hover {
-  color: deeppink;
+  color: #dbebd4;
 }
 
-.login {
+/* .login {
   margin-left: 25px;
-}
+} */
 
 .signup {
   margin-left: 25px;
